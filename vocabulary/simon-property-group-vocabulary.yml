@@ -1,0 +1,155 @@
+name: Simon Property Group Vocabulary
+description: >-
+  Vocabulary and taxonomy for Simon Property Group, the largest retail real estate
+  investment trust (REIT) in the United States. Covers retail real estate, property
+  management, tenant relations, e-commerce, and retail technology domains.
+version: '1.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+
+domains:
+  - name: Property Types
+    description: Categories of retail real estate properties owned and managed by Simon.
+    terms:
+      - name: Traditional Mall
+        label: Traditional Mall
+        description: >-
+          Enclosed shopping centers anchored by department stores, with a mix of
+          specialty retailers, dining, and entertainment.
+      - name: Premium Outlet
+        label: Premium Outlet
+        description: >-
+          Open-air outlet shopping destinations featuring brands selling merchandise
+          at discounted prices. Simon Premium Outlets is the world's largest outlet
+          platform.
+      - name: Mills
+        label: Mills Center
+        description: >-
+          Hybrid retail destinations combining elements of a traditional mall,
+          outlet center, and big-box retailers.
+      - name: Lifestyle Center
+        label: Lifestyle Center
+        description: >-
+          Open-air retail and mixed-use destinations combining shops, restaurants,
+          entertainment, and often residential or office space.
+      - name: Mixed-Use Development
+        label: Mixed-Use Development
+        description: >-
+          Properties combining retail, residential, office, hotel, or entertainment
+          uses in a single integrated development.
+
+  - name: Real Estate Operations
+    description: Core real estate and property management concepts.
+    terms:
+      - name: Occupancy Rate
+        label: Occupancy Rate
+        description: >-
+          The percentage of leasable space occupied by tenants. Simon's malls and
+          premium outlets ended 2025 at 96.4% occupancy.
+      - name: Net Operating Income
+        label: Net Operating Income (NOI)
+        description: >-
+          Total income from a property minus operating expenses, before debt service.
+          A key metric for REIT performance measurement.
+      - name: FFO
+        label: Funds From Operations
+        description: >-
+          The primary performance metric for REITs. Equals net income minus gains/losses
+          from property sales, plus real estate depreciation.
+      - name: Lease
+        label: Lease
+        description: A contractual agreement granting a tenant the right to occupy space in exchange for rent.
+      - name: Anchor Tenant
+        label: Anchor Tenant
+        description: >-
+          A major retailer (department store, big-box, etc.) that occupies a large
+          space and drives foot traffic to a shopping center.
+      - name: Inline Tenant
+        label: Inline Tenant
+        description: >-
+          Smaller specialty retailers that occupy store space between anchor tenants.
+      - name: Base Rent
+        label: Base Rent
+        description: The fixed minimum rent paid by a tenant, excluding percentage rent or other charges.
+      - name: Percentage Rent
+        label: Percentage Rent
+        description: Additional rent paid by a tenant based on a percentage of their sales above a threshold.
+
+  - name: Digital Commerce and Technology
+    description: Simon's digital retail platform and innovation initiatives.
+    terms:
+      - name: ShopSimon
+        label: ShopSimon
+        description: >-
+          Simon's e-commerce marketplace platform combining physical retail presence
+          with online shopping. A collaboration with Rue Gilt Groupe that leverages
+          Simon's 2 billion annual property visits.
+      - name: Simon Search
+        label: Simon Search
+        description: >-
+          The first platform to offer retailer-supplied product data directly to
+          shoppers at scale, enabling local product discovery.
+      - name: Simon+
+        label: Simon+
+        description: >-
+          Simon's digital loyalty and rewards program bridging physical and digital
+          retail to enhance the shopper experience.
+      - name: BOPIS
+        label: Buy Online, Pick Up In Store
+        description: >-
+          An omnichannel fulfillment model allowing customers to purchase online and
+          collect merchandise at a physical store location.
+      - name: Retail Media Network
+        label: Retail Media Network
+        description: >-
+          Simon's advertising platform enabling brands to reach shoppers through
+          digital and in-center advertising channels.
+      - name: Simon Innovation Group
+        label: Simon Innovation Group
+        description: >-
+          The R&D and strategic investment arm of Simon focused on retail technology
+          innovation, strategic partnerships, and the intersection of physical and digital retail.
+
+  - name: E-Commerce Integration
+    description: Terms related to the ShopSimon seller integration platform.
+    terms:
+      - name: Product Listing
+        label: Product Listing
+        description: A product entry in the ShopSimon marketplace catalog including title, description, images, and price.
+      - name: Offer
+        label: Offer
+        description: >-
+          A seller's pricing and inventory commitment for a specific product in the
+          ShopSimon catalog, linking price to availability.
+      - name: Inventory Feed
+        label: Inventory Feed
+        description: >-
+          A data feed providing real-time or near-real-time product availability and
+          quantity information for ShopSimon marketplace listings.
+      - name: Order Management
+        label: Order Management
+        description: The process of receiving, processing, and fulfilling customer orders placed on ShopSimon.
+      - name: Rithum Integration
+        label: Rithum Integration
+        description: >-
+          The official integration partner platform that enables retailers to sync product
+          and inventory data with ShopSimon.
+
+  - name: Investment and Finance
+    description: REIT and investment-related terms for Simon Property Group.
+    terms:
+      - name: REIT
+        label: Real Estate Investment Trust
+        description: >-
+          A company that owns income-producing real estate. REITs are required to
+          distribute at least 90% of taxable income as dividends.
+      - name: Dividend
+        label: Dividend
+        description: >-
+          Regular cash distributions paid to Simon shareholders from rental income
+          and other property revenues.
+      - name: Market Capitalization
+        label: Market Capitalization
+        description: >-
+          The total market value of Simon's outstanding shares. Approximately $67
+          billion as of early 2026.

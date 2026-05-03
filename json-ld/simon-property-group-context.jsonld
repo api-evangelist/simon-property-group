@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "simon": "https://simonpropertygroup.com/vocab/",
+
+    "Corporation": "schema:Corporation",
+    "LocalBusiness": "schema:LocalBusiness",
+    "ShoppingCenter": "schema:ShoppingCenter",
+    "Product": "schema:Product",
+    "Offer": "schema:Offer",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "address": "schema:address",
+    "telephone": "schema:telephone",
+    "geo": "schema:geo",
+    "openingHours": "schema:openingHours",
+    "sameAs": "schema:sameAs",
+
+    "Mall": "simon:Mall",
+    "PremiumOutlet": "simon:PremiumOutlet",
+    "MillsCenter": "simon:MillsCenter",
+    "LifestyleCenter": "simon:LifestyleCenter",
+    "MixedUseDevelopment": "simon:MixedUseDevelopment",
+
+    "occupancyRate": "simon:occupancyRate",
+    "grossLeasableArea": "simon:grossLeasableArea",
+    "netOperatingIncome": "simon:netOperatingIncome",
+    "baseRent": "simon:baseRent",
+    "percentageRent": "simon:percentageRent",
+    "anchorTenant": "simon:anchorTenant",
+    "inlineTenant": "simon:inlineTenant",
+    "leaseExpiry": "simon:leaseExpiry",
+    "occupiedArea": "simon:occupiedArea",
+
+    "tenantName": "schema:name",
+    "propertyType": "simon:propertyType",
+    "propertyId": "@id",
+    "totalProperties": "simon:totalProperties",
+    "continent": "schema:addressCountry",
+
+    "marketplaceProduct": "schema:Product",
+    "price": "schema:price",
+    "priceCurrency": "schema:priceCurrency",
+    "availability": "schema:availability",
+    "seller": "schema:seller",
+    "inventoryLevel": "schema:inventoryLevel",
+
+    "stockTicker": "schema:tickerSymbol",
+    "stockExchange": "schema:exchangeCode",
+    "annualRevenue": "schema:revenue",
+    "dividendYield": "simon:dividendYield",
+    "fundsFromOperations": "simon:fundsFromOperations"
+  }
+}
