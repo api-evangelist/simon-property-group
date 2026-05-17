@@ -45,7 +45,7 @@ apis:
     properties:
       - type: Documentation
         url: https://sellersupport.shopsimon.com/hc/en-us/articles/9632618154647-API-Integration
-      - type: Getting Started
+      - type: GettingStarted
         url: https://sellersupport.shopsimon.com/hc/en-us/articles/28034776101911-Getting-Started
 
 common:
