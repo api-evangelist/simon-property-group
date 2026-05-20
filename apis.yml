@@ -49,6 +49,8 @@ apis:
         url: https://sellersupport.shopsimon.com/hc/en-us/articles/28034776101911-Getting-Started
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/simon-property-group
   - type: Website
     url: https://www.simon.com
   - type: Corporate Website
