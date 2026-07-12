@@ -49,6 +49,10 @@ apis:
         url: https://sellersupport.shopsimon.com/hc/en-us/articles/28034776101911-Getting-Started
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/simon-property-group-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/simon-property-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/simon-property-group
   - type: Website
