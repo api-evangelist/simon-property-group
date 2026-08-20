@@ -29,6 +29,15 @@ tags:
   - Fortune 500
   - Malls
   - Outlet Centers
+  - Real-Estate
+  - REIT
+  - Retail
+tags_raw:
+  - Commercial Real Estate
+  - E-Commerce
+  - Fortune 500
+  - Malls
+  - Outlet Centers
   - Real Estate
   - REIT
   - Retail
@@ -48,6 +57,13 @@ apis:
       fulfillment for retail partners selling on ShopSimon.
     humanURL: https://sellersupport.shopsimon.com/
     tags:
+      - E-Commerce
+      - Inventory
+      - Marketplace
+      - Order
+      - Product
+      - Retail
+    tags_raw:
       - E-Commerce
       - Inventory
       - Marketplace
