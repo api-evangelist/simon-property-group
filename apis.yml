@@ -10,6 +10,17 @@ description: >-
   retail technology innovation. Simon had trailing twelve-month revenue of approximately
   $6.36 billion as of 2025 and a market capitalization of approximately $67 billion.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
