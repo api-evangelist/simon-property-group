@@ -1,7 +1,9 @@
 ---
 title: 'Simon Property Group - The #1 mall company in the US ...'
 url: https://quividi.com/global-case-studies/simon-property-group/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Simon Property Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

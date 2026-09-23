@@ -1,7 +1,9 @@
 ---
 title: 'Simon Property Group''s AI Strategy: Analysis of ...'
 url: https://www.klover.ai/simon-property-group-ai-strategy-analysis-of-dominance-in-real-estate-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Simon Property Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
