@@ -89,6 +89,12 @@ apis:
         url: https://sellersupport.shopsimon.com/hc/en-us/articles/28034776101911-Getting-Started
 
 common:
+  - type: Plans
+    url: plans/simon-property-group-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/simon-property-group-rate-limits.yml
+  - type: FinOps
+    url: finops/simon-property-group-finops.yml
   - type: VulnerabilityDisclosure
     url: security/simon-property-group-vulnerability-disclosure.yml
   - type: DomainSecurity
